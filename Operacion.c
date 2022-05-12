@@ -9,6 +9,5 @@ printf("%i",op1);
 int op2 = resta(num1,num2);
 13
 printf("%i",op2);
-
 return 0;
 }
