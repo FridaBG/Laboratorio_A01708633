@@ -32,7 +32,6 @@ return 0;
 =======
 13
 printf("%i",op2);
-
 return 0;
 }
 >>>>>>> a1b02f52b30ed1a59d64906fc3204ed98078e837
