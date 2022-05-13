@@ -24,8 +24,6 @@ printf("%i",op1);
 int op2 = resta(num1,num2);
 <<<<<<< HEAD
 printf("%i",op2);
-int op3 = multi(num1,num2);
-printf("%1",op3);
 
 return 0;
 }
